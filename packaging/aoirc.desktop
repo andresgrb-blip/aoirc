@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=AOIRC
+GenericName=IRC Client
+Comment=Connect to IRC with AnonOps-oriented TLS defaults
+Exec=/usr/bin/aoirc
+TryExec=/usr/bin/aoirc
+Icon=internet-chat
+Terminal=false
+Categories=Network;Chat;IRCClient;
+Keywords=IRC;AnonOps;Chat;

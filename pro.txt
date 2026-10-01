@@ -1,0 +1,17 @@
+Il progetto mira a creare un client IRC minimalista, con un'interfaccia testuale semplice e intuitiva.
+
+Le funzionalità principali sono:
+- Connessione a server IRC
+- Join a canali
+- Invio e ricezione di messaggi
+- Gestione degli utenti
+- Gestione dei canali
+- Salvataggio delle configurazioni in un file JSON
+- Caricamento delle configurazioni da file JSON all'avvio
+- Supporto per comandi IRC di base (JOIN, PART, MSG, NICK, QUIT, etc.)
+- Colori di sfondo nero e testo rosso per un aspetto retro-style
+- Interfaccia a split view con canali e messaggi
+- Supporto per input in tempo reale con readline
+- Supporto per history dei comandi con frecce su/down
+- Supporto per autocompletamento dei comandi con tab
+- Supporto per colori personalizzati dei nicknames
